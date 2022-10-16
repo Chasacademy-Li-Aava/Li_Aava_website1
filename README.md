@@ -1,5 +1,6 @@
 # Li_Aava_website1
 Första hemsidan 
+Öppnas med homepage.html
 
 Vissa saker funkar bara för 1380x880, eftersom det är det jag hade på developer tool. Insåg det lite sent in i projektet...
 Jag lyckades inte med att göra för @mobile, det var lite för krångligt. 
